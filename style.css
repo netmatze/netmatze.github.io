@@ -10,14 +10,14 @@ body {
   color: #333;
   padding: 40px;
   margin: 0 auto 30px;
-  max-width: 800px;
+  max-width: 1000px;
 }
 
 #profile-pic {
   display: block;
   margin: 0 auto 20px;
-  max-width: 200px; 
-  max-height: 200px;
+  max-width: 300px; 
+  max-height: 300px;
 }
 
 #intro-block h1 {
