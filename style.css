@@ -13,6 +13,12 @@ body {
   max-width: 600px;
 }
 
+#profile-pic {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 100%;
+}
+
 #intro-block h1 {
   font-size: 36px;
   margin-top: 0;
